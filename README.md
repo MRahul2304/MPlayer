@@ -153,7 +153,3 @@ music_player_project/
 
 - If the song is not showing up after upload, check the database and ensure the media files are being saved correctly.
 - Ensure the correct `CSRF` token is included in the form during file uploads.
-
-## License 📜
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
